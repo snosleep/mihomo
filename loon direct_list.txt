@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,mikanani.kas.pub,DIRECT
+DOMAIN-SUFFIX,ningmengzhibo.tv,DIRECT
+DOMAIN-SUFFIX,sportsteam368.com,DIRECT
+DOMAIN-SUFFIX,omofuns.com,DIRECT
+DOMAIN-SUFFIX,epicgames.dev,DIRECT
